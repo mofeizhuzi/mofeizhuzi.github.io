@@ -16,7 +16,7 @@ body, input, label, select, option, textarea, button, fieldset, legend {
 body {
   margin: 0;
   padding: 0;
-  background: #FAFAFA; }
+  background: rgb(235, 207, 207); }
 
 a {
   color: #212121;
@@ -500,7 +500,7 @@ main {
     object-fit: cover; }
 .home-article-inner {
   transition: all .3s ease;
-  background: white;
+  background: #bfe8c5;
   width: 100%;
   padding: 60px 60px 40px;
   border-radius: 10px; }

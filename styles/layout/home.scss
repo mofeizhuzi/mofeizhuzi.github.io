@@ -1,6 +1,7 @@
 // https://webflow.com/playlist/popular
 .home {
   $border-radius-size: 10px;
+  background: yellow;
 
   &-article-wrapper {
     display: block;
@@ -38,7 +39,7 @@
 
   &-article-inner {
     transition: all .3s ease;
-    background: white;
+    background: #bfe8c5;
     width: 100%;
     padding: 60px 60px 40px;
     border-radius: $border-radius-size;
